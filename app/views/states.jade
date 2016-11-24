@@ -1,0 +1,24 @@
+extends layout
+block content
+
+	div.content
+		h1
+			a(href="/")=titulo
+			<a href="/resultsbystate", id="resultsState">Resultados por estado</a>
+
+		div.states
+			- for(var i = 0; i < states.length; ++i){
+				- var	indexP = i
+					div.statebox
+						h2 #{states[i].name}
+						form(id="stateForm", method="post", action="/vote/#{states[i]._id}")
+							label Trump
+							input(type="number", id="nameTrump", value="Trump", name="nameTrump")
+							br
+							br
+							label Hillary
+							input(type="number", id="nameHillary", value="Hillary", name="nameHillary")
+							br
+							input(type="submit", name="id", id=states[i]._id, value="Guardar")
+
+			-}

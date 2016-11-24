@@ -1,0 +1,21 @@
+extends layout
+block content
+
+	div.content
+		h1=titulo
+		
+			
+			div.states
+			-var totalTrump= 0
+			-var totalHillary =0
+				- for(var i = 0; i < states.length; ++i){
+					- var	indexP = i
+						div.stateresults
+							h5 #{states[i].name}
+							p.title Ganador
+							p.winner #{states[i].winner}
+							p.votes Donald trump: #{states[i].votesTrump} puntos
+							p.votes Hillary Clinton: #{states[i].votesHillary} puntos
+						
+				-}	
+	

@@ -1,0 +1,599 @@
+/* 1 */
+{
+    "_id" : ObjectId("582e6d28ee8fe98e05c11500"),
+    "name" : "Alabama",
+    "maxVotes" : 9,
+    "votesTrump" : 12,
+    "votesHillary" : 12,
+    "winner" : "Hillary Clinton",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("582e6dbdee8fe98e05c11501"),
+    "name" : "Alaska",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("582e6ddaee8fe98e05c11502"),
+    "name" : "Arizona",
+    "maxVotes" : 11,
+    "votesTrump" : 4999,
+    "votesHillary" : 60000,
+    "winner" : "Hillary Clinton",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("582e6decee8fe98e05c11503"),
+    "name" : "Arkansas",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("582e6dfeee8fe98e05c11504"),
+    "name" : "California",
+    "maxVotes" : 55,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("582e6e0dee8fe98e05c11505"),
+    "name" : "Colorado",
+    "maxVotes" : 9,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("582e6e1dee8fe98e05c11506"),
+    "name" : "Connecticut",
+    "maxVotes" : 7,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("582e6e29ee8fe98e05c11507"),
+    "name" : "Delaware",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("582e6e3dee8fe98e05c11508"),
+    "name" : "District of Columbia",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("582e6e4cee8fe98e05c11509"),
+    "name" : "Florida",
+    "maxVotes" : 29,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("582e6e58ee8fe98e05c1150a"),
+    "name" : "Georgia",
+    "maxVotes" : 16,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("582e6e6eee8fe98e05c1150b"),
+    "name" : "Hawaii",
+    "maxVotes" : 4,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("582e6e78ee8fe98e05c1150c"),
+    "name" : "Idaho",
+    "maxVotes" : 4,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("582e6e8cee8fe98e05c1150d"),
+    "name" : "Illinois",
+    "maxVotes" : 20,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("582e6e98ee8fe98e05c1150e"),
+    "name" : "Indiana",
+    "maxVotes" : 11,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("582e6eb2ee8fe98e05c1150f"),
+    "name" : "Lowa",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("582e6ec1ee8fe98e05c11510"),
+    "name" : "Kansas",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("582e6ed2ee8fe98e05c11511"),
+    "name" : "Kentucky",
+    "maxVotes" : 8,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("582e6ee2ee8fe98e05c11512"),
+    "name" : "Louisiana",
+    "maxVotes" : 8,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("582e6eeeee8fe98e05c11513"),
+    "name" : "Maine",
+    "maxVotes" : 4,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("582e6f01ee8fe98e05c11514"),
+    "name" : "Maryland",
+    "maxVotes" : 10,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("582e6f0fee8fe98e05c11515"),
+    "name" : "Massachusetts",
+    "maxVotes" : 11,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("582e6f1dee8fe98e05c11516"),
+    "name" : "Michigan",
+    "maxVotes" : 16,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("582e6f2eee8fe98e05c11517"),
+    "name" : "Minnesota",
+    "maxVotes" : 10,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("582e6f3bee8fe98e05c11518"),
+    "name" : "Mississippi",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("582e6f50ee8fe98e05c11519"),
+    "name" : "Missouri",
+    "maxVotes" : 10,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("582e6f64ee8fe98e05c1151a"),
+    "name" : "Montana",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("582e6f74ee8fe98e05c1151b"),
+    "name" : "Nebraska",
+    "maxVotes" : 5,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("582e6f7eee8fe98e05c1151c"),
+    "name" : "Nevada",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("582e6f8fee8fe98e05c1151d"),
+    "name" : "New Hampshire",
+    "maxVotes" : 4,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("582e6f9bee8fe98e05c1151e"),
+    "name" : "New Jersey",
+    "maxVotes" : 14,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("582e6fa6ee8fe98e05c1151f"),
+    "name" : "New Mexico",
+    "maxVotes" : 5,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("582e6fbbee8fe98e05c11520"),
+    "name" : "New York",
+    "maxVotes" : 29,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("582e6fc9ee8fe98e05c11521"),
+    "name" : "North Carolina",
+    "maxVotes" : 15,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("582e6fd4ee8fe98e05c11522"),
+    "name" : "North Dakota",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("582e6fe4ee8fe98e05c11523"),
+    "name" : "Ohio",
+    "maxVotes" : 18,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("582e6fedee8fe98e05c11524"),
+    "name" : "Oklahoma",
+    "maxVotes" : 7,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("582e7002ee8fe98e05c11525"),
+    "name" : "Oregon",
+    "maxVotes" : 7,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("582e7016ee8fe98e05c11526"),
+    "name" : "Pennsylvania",
+    "maxVotes" : 20,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("582e7022ee8fe98e05c11527"),
+    "name" : "Rhode Island",
+    "maxVotes" : 4,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("582e702fee8fe98e05c11528"),
+    "name" : "South Carolina",
+    "maxVotes" : 9,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("582e7042ee8fe98e05c11529"),
+    "name" : "South Dakota",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("582e704fee8fe98e05c1152a"),
+    "name" : "Tennessee",
+    "maxVotes" : 11,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("582e705eee8fe98e05c1152b"),
+    "name" : "Texas",
+    "maxVotes" : 38,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("582e706eee8fe98e05c1152c"),
+    "name" : "Utah",
+    "maxVotes" : 6,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("582e707aee8fe98e05c1152d"),
+    "name" : "Vermont",
+    "maxVotes" : 3,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("582e7084ee8fe98e05c1152e"),
+    "name" : "Virginia",
+    "maxVotes" : 13,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("582e7092ee8fe98e05c1152f"),
+    "name" : "Washington",
+    "maxVotes" : 12,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("582e709fee8fe98e05c11530"),
+    "name" : "West Virginia",
+    "maxVotes" : 5,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("582e70abee8fe98e05c11531"),
+    "name" : "Wisconsin",
+    "maxVotes" : 10,
+    "votesTrump" : 0,
+    "votesHillary" : 0,
+    "winner" : "",
+    "winnerTrump" : false,
+    "winnerHillary" : false
+}
